@@ -1,24 +1,40 @@
 ### 
 <h1>Hello my friend 👋</h1>
+
 ###
+
 <p>I am Mahyar Kaliji a Front-End developer from Iran 🇮🇷</p>
+
 ###
+
 <h2>About me:</h2>
+
 ###
+
 <p>I'm a dedicated and detail-oriented Front-End Developer with one year of experience in building and maintaining responsive websites. Proficient in HTML, CSS, Bootstrap, Tailwind, JavaScript, and React. I have a strong foundation in web design principles and a keen eye for aesthetics and usability. I aim to create seamless and engaging user experiences through clean and efficient code.</p>
+
 ###
+
 <h2>💻 My Toolkit</h2>
+
 ###
+
 <div>
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2328A6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-%23282C34.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+  ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2328A6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?  style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+  ![React](https://img.shields.io/badge/React-%23282C34.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
+
 </div>
+
 ###
+
 <h2>📬 Reach Out</h2>
+
 ###
+
 <div>
   <a href="https://t.me/Mahyar_Kaliji" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
