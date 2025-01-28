@@ -1,4 +1,5 @@
-### 
+###
+
 <h1>Hello my friend 👋</h1>
 
 ###
@@ -21,11 +22,11 @@
 
 <div>
 
-  ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2328A6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-  ![React](https://img.shields.io/badge/React-%23282C34.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2328A6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-%23282C34.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 </div>
 
@@ -37,14 +38,9 @@
 
 <div>
   <a href="https://t.me/Mahyar_Kaliji" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo" /></a>
-  <a href="mailto:mahyar.kaliji@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/mahyarkaliji/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
+  <a href="mailto:mahyar.kaliji@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" /></a>
+  <a href="https://www.linkedin.com/in/mahyarkaliji/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="gmail logo" /></a>
 </div>
-
 
 <!--
 **MahyarKaliji/MahyarKaliji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
