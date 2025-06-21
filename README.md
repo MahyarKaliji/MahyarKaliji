@@ -12,7 +12,7 @@
 
 ###
 
-<p>I'm a dedicated and detail-oriented Front-End Developer with one year of experience in building and maintaining responsive websites. Proficient in HTML, CSS, Bootstrap, Tailwind, JavaScript, and React. I have a strong foundation in web design principles and a keen eye for aesthetics and usability. I aim to create seamless and engaging user experiences through clean and efficient code.</p>
+<p>I am a dedicated and meticulous Front-end developer with over a year of experience building and maintaining responsive websites. Proficient in HTML, CSS, Material-UI, Tailwind, JavaScript, TypeScript, and React. I have a strong foundation in web design principles and am passionate about aesthetics and usability. My goal is to create seamless and engaging user experiences through clean and efficient coding.</p>
 
 ###
 
