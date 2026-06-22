@@ -22,19 +22,19 @@
 
 <div>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Axios](https://img.shields.io/badge/axios.js-854195?style=for-the-badge&logo=axios&logoColor=5A29E4)
-![React Query](https://img.shields.io/badge/-React_Query-black?style=for-the-badge&logoColor=white&logo=reactquery&color=FF4154)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Shadcn](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2328A6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Ant Design](https://img.shields.io/badge/-Ant%20Design-333333?style=for-the-badge&logo=ant-design&logoColor=0170FE)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=ffd35b)
-![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/next.js-000000?logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Axios](https://img.shields.io/badge/axios.js-854195?logo=axios&logoColor=5A29E4)
+![React Query](https://img.shields.io/badge/-React_Query-black?logoColor=white&logo=reactquery&color=FF4154)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css&logoColor=white)
+![Shadcn](https://img.shields.io/badge/shadcn%2Fui-000000?logo=shadcnui&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2328A6D4.svg?logo=tailwind-css&logoColor=white)
+![Ant Design](https://img.shields.io/badge/-Ant%20Design-333333?logo=ant-design&logoColor=0170FE)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?logo=styled-components&logoColor=ffd35b)
+![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?logo=mui&logoColor=white)
 
 
 </div>
